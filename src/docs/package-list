@@ -1,0 +1,8 @@
+com.pgs.apteka
+com.pgs.apteka.locations
+com.pgs.apteka.locations.edit
+com.pgs.apteka.locations.show
+com.pgs.apteka.medicaments
+com.pgs.apteka.medicaments.edit
+com.pgs.apteka.medicaments.show
+com.pgs.apteka.repositories
