@@ -61,3 +61,7 @@ pobierana jest lista wszystkich rekordów z bazy locations.
 
 `DELETE /locations?id={id}` - Usunięcie rekordu z bazy danych oraz innych rekordów z nim powiązanych
 (z bazy medicaments).
+
+Dokumentacja projektu
+-----
+https://bula0072.github.io/PGS_Java_Praktyki_Rekrutacja/
